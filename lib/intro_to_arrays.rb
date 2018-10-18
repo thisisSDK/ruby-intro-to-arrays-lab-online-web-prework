@@ -44,4 +44,4 @@ south_east_asia.last
 
 #length_of_array
 south_east_asia = ["Thailand", "Cambodia", "Singapore", "Myanmar"]
-south_east_asia
+south_east_asia.length 
