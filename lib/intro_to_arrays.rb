@@ -7,7 +7,7 @@ my_new_array = []
 
 #array_with_two_elements
 
-my_new_array = []
+my_two_array = ["element a", "element b"]
 
 ##############
 ## indexing ##
