@@ -3,11 +3,11 @@
 ###################
 
 #instantiate_new_array
-array = []
+my_new_array = []
 
 #array_with_two_elements
 
-array = []
+my_new_array = []
 
 ##############
 ## indexing ##
